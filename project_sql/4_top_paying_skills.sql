@@ -1,8 +1,8 @@
 /*
 Answer: What are the top paying skills based on salary for data analyst jobs?
 - Look at the average salary associated with each skill for data analyst jobs.
-- Focus on roles with specified salaries, regardles of location
-- Why? It reveals how diffrent skills impact salary levels for Data Analyst positions and
+- Focus on roles with specified salaries, regardless of location
+- Why? It reveals how different skills impact salary levels for Data Analyst positions and
  helping job seekers prioritize skill development for higher earning potential.
 */
 

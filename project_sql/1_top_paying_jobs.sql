@@ -2,7 +2,7 @@
 Question: What are the top-paying data analyst jobs?
 - Identify the top 10 highest-paying Data Analyst roles that are available in Poland.
 - Focuses on job postings with specified salaries (remove nulls).
-- Why? Highlist the top-paying opportunities for data analysts to help job seekers make informed career decisions.
+- Why? Highlight the top-paying opportunities for data analysts to help job seekers make informed career decisions.
 */
 
 SELECT 
